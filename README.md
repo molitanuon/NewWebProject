@@ -2,7 +2,6 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Server!!</title>
 </head>
 <body style="background-color: rgba(80,161,136,0.95);">
 <div style="color:dark green; font-size:7px;">
@@ -59,7 +58,7 @@
                                                                                                                                                $$    $$/$$       $$ |  $$ |  $$$/   $$       $$ |  $$ |
                                                                                                                                                 $$$$$$/ $$$$$$$$/$$/   $$/    $/    $$$$$$$$/$$/   $$/
 
-<p style = "text-align: center; font-size = 64px;"><a style = "text-align: center;" href="https://youtu.be/wFOGhggGdxY" target="_blank" rel="external" hreflang="en" type="text/html">
+<p style = "text-align: left; font-size = 64px;"><a style = "text-align: center;" href="https://youtu.be/wFOGhggGdxY" target="_blank" rel="external" hreflang="en" type="text/html">
 Click Here (if you dare...)
 </a>
 </p>

@@ -58,7 +58,7 @@
                                                                                                                                                $$    $$/$$       $$ |  $$ |  $$$/   $$       $$ |  $$ |
                                                                                                                                                 $$$$$$/ $$$$$$$$/$$/   $$/    $/    $$$$$$$$/$$/   $$/
 
-<p style = "text-align: left; font-size = 64px;"><a style = "text-align: center;" href="https://youtu.be/wFOGhggGdxY" target="_blank" rel="external" hreflang="en" type="text/html">
+<p style = "text-align: left; font-size = 64px;"><a style = "text-align: left;" href="https://youtu.be/wFOGhggGdxY" target="_blank" rel="external" hreflang="en" type="text/html">
 Click Here (if you dare...)
 </a>
 </p>
